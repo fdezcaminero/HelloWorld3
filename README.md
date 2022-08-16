@@ -24,10 +24,6 @@
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Thanks to my learning partners from Microverse, Vitor and Max!
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
